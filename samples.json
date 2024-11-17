@@ -1,0 +1,39 @@
+[ { "url":"AD01.WAV","type":"audio","bank":"BNKDAT","n":1} 
+  { "url":"AD02.WAV","type":"audio","bank":"BNKDAT","n":2}
+  { "url":"AD03.WAV","type":"audio","bank":"BNKDAT","n":3}
+  { "url":"AD04.WAV","type":"audio","bank":"BNKDAT","n":4}
+  { "url":"AD05.WAV","type":"audio","bank":"BNKDAT","n":5}
+  { "url":"AD06.WAV","type":"audio","bank":"BNKDAT","n":6}
+  { "url":"AD07.WAV","type":"audio","bank":"BNKDAT","n":7}
+  { "url":"AD08.WAV","type":"audio","bank":"BNKDAT","n":8}
+  { "url":"AD09.WAV","type":"audio","bank":"BNKDAT","n":9}
+  { "url":"AD10.WAV","type":"audio","bank":"BNKDAT","n":10}
+  
+  { "url":"IMdsrdn.png","type":"image","bank":"BNKDAT","n":1}
+  { "url":"IMdsrdn2.png","type":"image","bank":"BNKDAT","n":2}
+  { "url":"IMdsrdn3.png","type":"image","bank":"BNKDAT","n":3}
+  { "url":"IMdsrdn4.png","type":"image","bank":"BNKDAT","n":4}
+  { "url":"IMdsrdn5.png","type":"image","bank":"BNKDAT","n":5}
+  { "url":"IMdsrdn6.png","type":"image","bank":"BNKDAT","n":6}
+  { "url":"IMdsrdn7.png","type":"image","bank":"BNKDAT","n":7}
+  { "url":"IMdsrdn8.png","type":"image","bank":"BNKDAT","n":8}
+  { "url":"IMdsrdn9.png","type":"image","bank":"BNKDAT","n":9}
+  { "url":"IMdsrdn10.png","type":"image","bank":"BNKDAT","n":10}
+ 
+  { "url":"Kevons1.mov","type":"video","bank":"BNKDAT","n":1}
+  { "url":"Kevons2.mov","type":"video","bank":"BNKDAT","n":2}
+  { "url":"Kevons3.mov","type":"video","bank":"BNKDAT","n":3}
+  { "url":"Kevons4.mov","type":"video","bank":"BNKDAT","n":4}
+  { "url":"Kevons5.mov","type":"video","bank":"BNKDAT","n":5}
+  { "url":"Kevons6.mov","type":"video","bank":"BNKDAT","n":6}
+  { "url":"Kevons7.mov","type":"video","bank":"BNKDAT","n":7}
+
+
+
+
+
+
+
+
+
+]
